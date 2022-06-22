@@ -296,7 +296,7 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
             description: menuu,
             buttonText: 'LIST MENU',
             listType: 1,
-            footerText: "⬣━〔Powered By ©ArullOfc〕━⬣\n       ▌│█║▌║▌║║▌║▌║█│▌",
+            footerText: "  𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 © 𝐑𝐅-𝐁𝐎𝐓𝐙\n       ",
             mtype: 'listMessage',
             sections: [
               {
